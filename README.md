@@ -34,15 +34,15 @@ How to disable the tooltip when you hover over items
  ## Screenshots
 
 #### The final product is an exact copy of the requested design, enhanced version will be coming soon!  
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~$
 `Home Screen` 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
  `Profile Screen`
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 `Cart Screen`  
 
 
-<img src ="Images/homescreen.jpg" width="300" height ="600"> <img src ="Images/profilescreen.jpg" width="300" height ="600"><img src ="Images/cart%20screen.jpg" width="300" height ="598">
+<img src ="Images/homescreen.jpg" width="250" height ="500"> <img src ="Images/profilescreen.jpg" width="250" height ="500"><img src ="Images/cart%20screen.jpg" width="250" height ="498">
 
 
 
